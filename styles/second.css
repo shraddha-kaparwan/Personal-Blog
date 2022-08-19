@@ -1,0 +1,11 @@
+.social-container {
+	display: grid;
+	grid-gap: 0px;
+	text-align: left;
+	color: #FFF;
+}
+
+.grid-cell-2 {
+    padding: 5px;
+	border-radius: 1px;
+}
