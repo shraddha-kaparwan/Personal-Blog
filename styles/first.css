@@ -6,21 +6,27 @@ ul{
     color:brown;
     list-style: none;
 }
+
 p{
     color:red;
 }
+
 footer{
     color:green;
 }
+
 .firstcard{
     color:darkgoldenrod;
 }
+
 .secondcard{
     color:blue;
 }
+
 .thirdcard{
     color:orchid;
 }
+
 a{
     text-decoration: none;
 }
@@ -28,19 +34,26 @@ a{
 .bio {
     font-style: italic;
 }
+
 .socialsharingsection {
     display: grid;
 }
+
 .authorinfosection {
     clear: both;
 }
+
 .bold {
     font-weight: bold;
 }
 
+.text {
+    font-style: normal;
+}
+
 
 .avatar{
-width: 45%;
+    width: 45%;
 }
 
 @media only screen and (max-width: 768px) {
@@ -57,4 +70,3 @@ width: 45%;
         width: 85%;
     }
 }
-
