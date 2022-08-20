@@ -15,15 +15,15 @@ footer{
     color:green;
 }
 
-.firstcard{
+.cardone{
     color:darkgoldenrod;
 }
 
-.secondcard{
+.cardtwo{
     color:blue;
 }
 
-.thirdcard{
+.cardthree{
     color:orchid;
 }
 
@@ -35,11 +35,7 @@ a{
     font-style: italic;
 }
 
-.socialsharingsection {
-    display: grid;
-}
-
-.authorinfosection {
+.author {
     clear: both;
 }
 
@@ -52,7 +48,7 @@ a{
 }
 
 
-.avatar{
+.avtr{
     width: 45%;
 }
 

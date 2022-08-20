@@ -1,6 +1,6 @@
-@import "first.css";
-@import "second.css";
-@import "third.css";
+@import "primary.css";
+@import "social.css";
+@import "container.css";
 
 body {
     margin: 0;
