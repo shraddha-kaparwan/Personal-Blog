@@ -48,3 +48,16 @@ nav a:hover {
 header {
     clear: both;
 }
+
+.flexCards {
+    margin-top: 2%;
+    display: flex;
+    justify-content: stretch;
+    align-items: flex-start;
+}
+
+.blogFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}

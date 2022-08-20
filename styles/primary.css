@@ -61,8 +61,12 @@ a{
 }
 
 @media only screen and (min-width: 768px) {
-    /* For mobile phones: */
+    /* For Laptops: */
     img {
         width: 85%;
+    }
+    
+    .blogFlex img {
+        width: 45%;
     }
 }
